@@ -17,11 +17,6 @@ function programExe = learnSwitchLogic()
             programExe = "you enterd the no within range which is "  + userInput;
 
         otherwise
-<<<<<<< HEAD
-             
-=======
-            
->>>>>>> 1de95f2b0146924ff5a342cdb4d7698bc5440740
             if userInput == 0
                 programExe = "enterd the no which is not in range and it is equal to zero";
             else
